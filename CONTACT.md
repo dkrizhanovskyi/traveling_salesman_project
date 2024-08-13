@@ -7,7 +7,7 @@ If you have any questions, suggestions, or would like to contribute to the *Trav
 - **Name:** Daniil Krizhanovskyi
 - **Email:** [daniil.krizhanovskyi@hotmail.com](mailto:daniil.krizhanovskyi@hotmail.com)
 - **GitHub:** [dkrizhanovskyi](https://github.com/dkrizhanovskyi)
-- **LinkedIn:** [Daniil Krizhanovskyi](www.linkedin.com/in/daniil-krizhanovskyi-java-developer)
+- **LinkedIn:** [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi-java-developer)
   
 ## Reporting Issues
 
