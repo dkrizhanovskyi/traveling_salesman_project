@@ -1,0 +1,19 @@
+# Ignore output files
+outputs/
+
+# Ignore data files
+data/
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.py[cod]
+venv/
+
+# Ignore Rust build artifacts
+target/
+Cargo.lock
+
+# Ignore other potential large or temporary files
+*.log
+*.tmp
+*.csv

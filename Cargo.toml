@@ -1,0 +1,22 @@
+[package]
+name = "traveling_salesman_project"
+version = "0.3.0"
+authors = ["Daniil Krizhanovskyi <daniil.krizhanovskyi@hotmail.com>"]
+edition = "2021"
+description = "A project for solving the Traveling Salesman Problem using Rust with advanced techniques and optimizations."
+license = "MIT"
+repository = "https://github.com/dkrizhanovskyi/traveling_salesman_project"
+
+[dependencies]
+plotters = "0.3.6"
+plotters-backend = "0.3.6"
+plotters-svg = "0.3.6"
+rand = "0.8.5"
+csv = "1.1.6"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rayon = "1.5.1"  # For parallel computations
+ndarray = "0.16.0"  # For numerical computations in multi-objective optimization
+tensorflow = { version = "0.21.0", features = ["default"] }  # For integrating machine learning models
+warp = "0.3"  # For building the API
+tokio = { version = "1", features = ["full"] }
